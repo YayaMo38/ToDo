@@ -1,2 +1,1 @@
-![AppTry](<img src="https://github.com/user-attachments/assets/e7850f12-5b22-40b4-be0e-bbd396744d6a" alt="AppTry" width="200"/>
-)
+![AppTry (1)](https://github.com/user-attachments/assets/07168828-1bfb-4792-986a-d2f9a0b1c537)
